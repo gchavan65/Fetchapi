@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Fetchapi/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Fetchapi/static/js/main.8fe7f620.chunk.js",
+    "main.js.map": "/Fetchapi/static/js/main.8fe7f620.chunk.js.map",
+    "runtime-main.js": "/Fetchapi/static/js/runtime-main.8871c3c2.js",
+    "runtime-main.js.map": "/Fetchapi/static/js/runtime-main.8871c3c2.js.map",
+    "static/css/2.818011ed.chunk.css": "/Fetchapi/static/css/2.818011ed.chunk.css",
+    "static/js/2.e8c9de5b.chunk.js": "/Fetchapi/static/js/2.e8c9de5b.chunk.js",
+    "static/js/2.e8c9de5b.chunk.js.map": "/Fetchapi/static/js/2.e8c9de5b.chunk.js.map",
+    "index.html": "/Fetchapi/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Fetchapi/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Fetchapi/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e8c9de5b.chunk.js.LICENSE.txt": "/Fetchapi/static/js/2.e8c9de5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8871c3c2.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.e8c9de5b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8fe7f620.chunk.js"
+  ]
+}
